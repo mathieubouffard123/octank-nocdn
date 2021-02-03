@@ -31,7 +31,7 @@
 <br><br>
 
 <?php 
-    echo "<img src='http://www.bouffam-octank.com/images/pexels-pixabay-358457.jpg' alt='test' />"; 
+    echo "<img src='https://bouffam-octank-images.s3.amazonaws.com/images/pexels-pixabay-358457.jpg' alt='test' />"; 
 ?> 
 
 
@@ -68,13 +68,13 @@ fclose($fp);
 <br><br>
 
 <?php 
-    echo "<img src='http://www.bouffam-octank.com/images/john-fowler-EgLPw5LE6aQ-unsplash.jpg' alt='test' />"; 
+    echo "<img src='https://bouffam-octank-images.s3.amazonaws.com/images/john-fowler-EgLPw5LE6aQ-unsplash.jpg' alt='test' />"; 
 ?> 
 
 <br><br>
 
 <?php 
-    echo "<img src='http://www.bouffam-octank.com/images/scarlet-ellis-T-hmCH6excw-unsplash.jpg' alt='test' />"; 
+    echo "<img src='https://bouffam-octank-images.s3.amazonaws.com/images/scarlet-ellis-T-hmCH6excw-unsplash.jpg' alt='test' />"; 
 ?> 
 
 <br><br>
