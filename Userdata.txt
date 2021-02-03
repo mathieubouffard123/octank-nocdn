@@ -13,7 +13,7 @@ mkdir /mnt/efs
 sudo mount -t efs -o tls fs-1c2b33e9:/ /mnt/efs
 
 # Download repo from Git
-git clone  --branch v2 https://github.com/mathieubouffard123/octank.git /var/www/html
+git clone  --branch main https://github.com/mathieubouffard123/octank-nocdn.git /var/www/html
 
 # Overwrite fstab to automatically mount EFS
  yes | cp -rf /var/www/html/fstab /etc/
