@@ -33,12 +33,12 @@
 
 <?php 
 #    echo "<img src='https://bouffam-octank-images.s3.amazonaws.com/images/john-fowler-EgLPw5LE6aQ-unsplash.jpg' width=200 alt='test' />"; 
-    echo "<img src='/mnt/efs/images/john-fowler-EgLPw5LE6aQ-unsplash.jpg' width=200 alt='test' />"; 
+    echo "<img src='/images/john-fowler-EgLPw5LE6aQ-unsplash.jpg' width=200 alt='test' />"; 
 ?> 
 
 <?php 
 #    echo "<img src='https://bouffam-octank-images.s3.amazonaws.com/images/scarlet-ellis-T-hmCH6excw-unsplash.jpg' width=200 alt='test' />"; 
-    echo "<img src='/mnt/efs/images/scarlet-ellis-T-hmCH6excw-unsplash.jpg' width=200 alt='test' />"; 
+    echo "<img src='images/scarlet-ellis-T-hmCH6excw-unsplash.jpg' width=200 alt='test' />"; 
 
 ?> 
 </center>
