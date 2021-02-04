@@ -24,17 +24,19 @@
 
 <br><br>
 
+<center>
 <?php 
-    echo "<img src='https://bouffam-octank-images.s3.amazonaws.com/images/pexels-pixabay-358457.jpg' width=100 alt='test' />"; 
+    echo "<img src='https://bouffam-octank-images.s3.amazonaws.com/images/pexels-pixabay-358457.jpg' width=200 alt='test' />"; 
 ?> 
 
 <?php 
-    echo "<img src='https://bouffam-octank-images.s3.amazonaws.com/images/john-fowler-EgLPw5LE6aQ-unsplash.jpg' width=100 alt='test' />"; 
+    echo "<img src='https://bouffam-octank-images.s3.amazonaws.com/images/john-fowler-EgLPw5LE6aQ-unsplash.jpg' width=200 alt='test' />"; 
 ?> 
 
 <?php 
-    echo "<img src='https://bouffam-octank-images.s3.amazonaws.com/images/scarlet-ellis-T-hmCH6excw-unsplash.jpg' width=100 alt='test' />"; 
+    echo "<img src='https://bouffam-octank-images.s3.amazonaws.com/images/scarlet-ellis-T-hmCH6excw-unsplash.jpg' width=200 alt='test' />"; 
 ?> 
+</center>
 
 <br><br>
 <center>Hostname is <b><?= $hostname ?></b></center>
